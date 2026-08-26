@@ -1,0 +1,83 @@
+<style>
+
+.sosu {
+background-color: red;
+height: 35px;
+width: 105px;
+color: white;
+border: none;
+border-radius: 3px;
+transition: opacity 2s;
+}
+
+.sosu {
+background-color: red;
+height: 35px;
+width: 105px;
+color: white;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+transition: opacity 2s;
+}
+
+.sosu:hover {
+    opacity: 0.8;
+}
+.sosu:active {
+ opacity: 0.5;   
+}
+
+.myra {
+background-color: white;
+height: 35px;
+width: 75px;
+color: #00ced1;
+border-width: 1px;
+border-radius: 3px;
+border-color: #00ced1;
+border-style: solid;
+cursor: pointer;
+transition: background-color 2s, color 2s;
+}
+
+.myra:hover {
+    background-color: #00ced1;
+    color:white
+}
+
+.myra:active {
+    opacity: 0.5;
+}
+
+.qamylah {
+background-color: #00ced1;
+height: 35px;
+width: 75px;
+color: white;
+border: none;
+border-radius: 18px;
+}
+
+.qamylah:hover {
+box-shadow: 5px 5px 10px rgba(4, 26, 39, 0.15);
+}
+
+.qamylah:active {
+opacity: 0.5;
+}
+
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
